@@ -1,4 +1,4 @@
-# Springboot JWT Demo
+# Springboot Backend API REST
 
 **Demo webapp** under MySQL database. JSON REST services. There aren't Spring security sessions set.
 non-commercial purpose.
